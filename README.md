@@ -15,6 +15,8 @@ This repository documents my internship journey as an Associate Intern at **COSM
 2. **Fundamentals of SEO (Search Engine Optimization)**
    - Applied basic SEO principles to improve content visibility and engagement.
    - Conducted keyword research and optimized metadata.
+   - Utilized Power Automate Desktop to streamline repetitive SEO tasks, enhancing efficiency.
+   - Automated keyword tracking and reporting processes using advanced workflow capabilities.
 
 3. **Analysis and Development**
    - Participated in analyzing trends, user behavior, and product performance.
