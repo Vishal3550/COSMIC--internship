@@ -1,5 +1,5 @@
 # COSMIC365 Associate Intern
-
+## Certificate :- [Link](https://github.com/Vishal3550/COSMIC--internship/blob/main/README.md)
 ## Overview
 This repository documents my internship journey as an Associate Intern at **COSMIC365**, which spanned from March 11, 2024, to May 9, 2024. My internship was part of the **COSMIC365 Skill Development Program**, offering exposure to a variety of domains through live corporate projects and collaborations.
 
